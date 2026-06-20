@@ -280,6 +280,18 @@
     ]
   },
   {
+    "changed_telemetry_cells": 0,
+    "contributor_class": "unknown",
+    "contributor_login": "pull[bot]",
+    "direct_commits": 0,
+    "evidence_types_used": [],
+    "merged_prs": 59,
+    "negative_score_delta": 0.0,
+    "positive_score_delta": 0.0,
+    "prs_opened": 59,
+    "vendors_affected": []
+  },
+  {
     "changed_telemetry_cells": 19,
     "contributor_class": "external_contributor",
     "contributor_login": "thiboog",

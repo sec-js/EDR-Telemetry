@@ -1,6 +1,23 @@
 [
   {
-    "author": null,
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-08-20T20:31:03Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-08-20T21:13:17Z",
+    "pr_number": 1,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/1",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Driver/Module Activity",
       "Network Activity"
@@ -9,24 +26,60 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 2,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2024-08-25T12:15:40Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2024-08-27T10:30:35Z",
     "pr_number": 2,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/2",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/2",
     "score_delta": 2.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "crowdstrike"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-09-20T10:09:45Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-09-20T13:32:09Z",
+    "pr_number": 3,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/3",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-10-19T03:32:31Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-10-19T04:45:25Z",
+    "pr_number": 4,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/4",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -49,25 +102,80 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 55,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2024-10-27T08:40:19Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2024-10-27T08:40:23Z",
     "pr_number": 5,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/5",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/5",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "sysmon",
       "trellix"
     ]
   },
   {
-    "author": "jdu2600",
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-11-18T08:30:05Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-11-18T08:30:08Z",
+    "pr_number": 6,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/6",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-12-13T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-12-13T04:40:04Z",
+    "pr_number": 7,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/7",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-12-13T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-12-13T20:40:04Z",
+    "pr_number": 8,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/8",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Process Activity"
     ],
@@ -75,24 +183,41 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 1,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2024-12-14T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2024-12-14T20:40:04Z",
     "pr_number": 9,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/9",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/9",
     "score_delta": 1.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "elastic"
     ]
   },
   {
-    "author": "jdu2600",
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-12-16T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-12-16T04:40:04Z",
+    "pr_number": 10,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/10",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Process Activity"
     ],
@@ -100,24 +225,60 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 1,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2024-12-17T15:47:28Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2024-12-17T15:47:32Z",
     "pr_number": 11,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/11",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/11",
     "score_delta": 1.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "elastic"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-12-17T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-12-17T20:40:05Z",
+    "pr_number": 12,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/12",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-12-22T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-12-22T04:40:04Z",
+    "pr_number": 13,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/13",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Device Operations",
       "Hash Algorithms",
@@ -130,24 +291,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 11,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2024-12-23T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2024-12-23T20:40:03Z",
     "pr_number": 14,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/14",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/14",
     "score_delta": -1.65,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "crowdstrike"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -170,24 +331,43 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 54,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2024-12-26T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2024-12-26T20:40:04Z",
     "pr_number": 15,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/15",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/15",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "cybereason"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2024-12-29T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2024-12-29T04:40:04Z",
+    "pr_number": 16,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/16",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "File Manipulation"
     ],
@@ -195,24 +375,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 1,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-01-01T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-01-01T20:40:04Z",
     "pr_number": 17,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/17",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/17",
     "score_delta": 0.7,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "microsoft_defender"
     ]
   },
   {
-    "author": "j91321",
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -235,24 +415,43 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 54,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-01-23T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-01-23T20:40:04Z",
     "pr_number": 18,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/18",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/18",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "eset_inspect"
     ]
   },
   {
-    "author": "NicolasSchn",
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-01-24T20:40:02Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-01-24T20:40:05Z",
+    "pr_number": 19,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/19",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "File Manipulation"
     ],
@@ -260,24 +459,81 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 1,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-01-29T20:40:03Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-01-29T20:40:06Z",
     "pr_number": 20,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/20",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/20",
     "score_delta": -0.5,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "crowdstrike"
     ]
   },
   {
-    "author": "QueenSquishy",
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-02-02T04:40:02Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-02-02T04:40:05Z",
+    "pr_number": 21,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/21",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-02-11T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-02-11T20:40:04Z",
+    "pr_number": 22,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/22",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-03-01T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-03-01T04:40:04Z",
+    "pr_number": 23,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/23",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -300,24 +556,97 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 54,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-03-07T12:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-03-07T12:40:04Z",
     "pr_number": 24,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/24",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/24",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "carbon_black"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-03-10T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-03-10T04:40:04Z",
+    "pr_number": 25,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/25",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-03-27T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-03-27T20:40:04Z",
+    "pr_number": 26,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/26",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-04-11T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-04-11T20:40:04Z",
+    "pr_number": 27,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/27",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json",
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-05-03T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-05-03T20:40:04Z",
+    "pr_number": 28,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/28",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Service Activity"
     ],
@@ -325,24 +654,41 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 1,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-06-09T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-06-09T20:40:04Z",
     "pr_number": 29,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/29",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/29",
     "score_delta": 0.5,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "watchguard"
     ]
   },
   {
-    "author": "xC0uNt3r7hr34t",
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-06-10T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-06-10T04:40:04Z",
+    "pr_number": 30,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/30",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Device Operations"
     ],
@@ -350,24 +696,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 1,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-08-21T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-08-21T20:40:05Z",
     "pr_number": 31,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/31",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/31",
     "score_delta": 1.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "sentinelone"
     ]
   },
   {
-    "author": "zbeastofburden",
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -390,24 +736,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 53,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-08-25T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-08-25T20:40:05Z",
     "pr_number": 32,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/32",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/32",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "trend_micro_trendai"
     ]
   },
   {
-    "author": "xC0uNt3r7hr34t",
+    "author": "pull[bot]",
     "categories_affected": [
       "Named Pipe Activity",
       "Network Activity"
@@ -416,24 +762,60 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 3,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-09-07T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-09-07T20:40:05Z",
     "pr_number": 33,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/33",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/33",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "sentinelone"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-09-15T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-09-15T20:40:05Z",
+    "pr_number": 34,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/34",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-09-16T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-09-16T04:40:05Z",
+    "pr_number": 35,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/35",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Named Pipe Activity"
     ],
@@ -441,24 +823,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 2,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-09-17T12:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-09-17T12:40:05Z",
     "pr_number": 36,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/36",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/36",
     "score_delta": 1.3,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "crowdstrike"
     ]
   },
   {
-    "author": "alextrender",
+    "author": "pull[bot]",
     "categories_affected": [
       "File Manipulation",
       "Process Activity",
@@ -468,24 +850,62 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 3,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-09-23T12:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-09-23T12:40:06Z",
     "pr_number": 37,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/37",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/37",
     "score_delta": 1.1,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "trend_micro_trendai"
     ]
   },
   {
-    "author": "j91321",
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-10-15T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-10-15T04:40:07Z",
+    "pr_number": 38,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/38",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-10-23T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-10-23T20:40:05Z",
+    "pr_number": 39,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/39",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "File Manipulation"
     ],
@@ -493,24 +913,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 1,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-11-05T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-11-05T20:40:05Z",
     "pr_number": 40,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/40",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/40",
     "score_delta": 1.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "eset_inspect"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
     "categories_affected": [
       "WMI Activity"
     ],
@@ -518,24 +938,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 2,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-11-07T04:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-11-07T04:40:05Z",
     "pr_number": 41,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/41",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/41",
     "score_delta": 2.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "crowdstrike"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -558,24 +978,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 53,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-11-10T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-11-10T20:40:05Z",
     "pr_number": 42,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/42",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/42",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "symantec_ses_complete"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -598,24 +1018,61 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 53,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-11-16T12:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-11-16T12:40:05Z",
     "pr_number": 43,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/43",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/43",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "harfanglab"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-11-25T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-11-25T20:40:05Z",
+    "pr_number": 44,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/44",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json",
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2025-11-29T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2025-11-29T20:40:05Z",
+    "pr_number": 45,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/45",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "EDR SysOps"
     ],
@@ -623,24 +1080,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 4,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2025-12-28T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2025-12-28T20:40:05Z",
     "pr_number": 46,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/46",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/46",
     "score_delta": 0.7,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "microsoft_defender"
     ]
   },
   {
-    "author": null,
+    "author": "pull[bot]",
     "categories_affected": [
       "BIT JOBS Activity",
       "Device Operations",
@@ -663,24 +1120,24 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 53,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2026-01-20T04:40:04Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2026-01-20T04:40:09Z",
     "pr_number": 47,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/47",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/47",
     "score_delta": 0.0,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "cortex_xdr"
     ]
   },
   {
-    "author": "Robert-HarfangLab",
+    "author": "pull[bot]",
     "categories_affected": [
       "Driver/Module Activity",
       "EDR SysOps",
@@ -699,24 +1156,119 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 37,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2026-01-21T04:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2026-01-21T04:40:05Z",
     "pr_number": 48,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/48",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/48",
     "score_delta": 24.6,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "harfanglab"
     ]
   },
   {
-    "author": "jdu2600",
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json",
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-03-24T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-03-24T04:40:05Z",
+    "pr_number": 49,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/49",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_macOS.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-03-26T12:40:02Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-03-26T12:40:06Z",
+    "pr_number": 50,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/50",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-04-22T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-04-22T04:40:05Z",
+    "pr_number": 51,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/51",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_macOS.json",
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-04-28T12:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-04-28T12:40:06Z",
+    "pr_number": 52,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/52",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-05-14T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-05-14T04:40:06Z",
+    "pr_number": 53,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/53",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
     "categories_affected": [
       "Schedule Task Activity",
       "Service Activity",
@@ -726,21 +1278,117 @@
       "EDR_telem.json"
     ],
     "changed_telemetry_cells": 9,
-    "created_at": null,
-    "draft": null,
+    "created_at": "2026-05-14T20:40:01Z",
+    "draft": false,
     "evidence_types": [
       "unknown"
     ],
     "maintainer_reviewed": false,
-    "merged_at": null,
+    "merged_at": "2026-05-14T20:40:06Z",
     "pr_number": 54,
-    "public_url": "https://github.com/tsale/EDR-Telemetry/pull/54",
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/54",
     "score_delta": 3.35,
-    "state": null,
-    "title": null,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
     "vendors_affected": [
       "elastic"
     ]
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_macOS.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-05-18T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-05-18T04:40:05Z",
+    "pr_number": 55,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/55",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json",
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-06-13T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-06-13T04:40:05Z",
+    "pr_number": 56,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/56",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json",
+      "EDR_telem_macOS.json",
+      "EDR_telem_windows.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-06-13T12:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-06-13T12:40:06Z",
+    "pr_number": 57,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/57",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [
+      "EDR_telem_linux.json"
+    ],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-06-18T20:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-06-18T20:40:06Z",
+    "pr_number": 58,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/58",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
+  },
+  {
+    "author": "pull[bot]",
+    "categories_affected": [],
+    "changed_score_bearing_files": [],
+    "changed_telemetry_cells": 0,
+    "created_at": "2026-06-20T04:40:01Z",
+    "draft": false,
+    "evidence_types": [],
+    "maintainer_reviewed": false,
+    "merged_at": "2026-06-20T04:40:05Z",
+    "pr_number": 59,
+    "public_url": "https://github.com/sec-js/EDR-Telemetry/pull/59",
+    "score_delta": 0.0,
+    "state": "merged",
+    "title": "[pull] main from tsale:main",
+    "vendors_affected": []
   },
   {
     "author": null,
