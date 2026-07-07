@@ -1,28 +1,16 @@
 [
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "25004",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 70,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "Aegrah",
     "direct_commits": 2,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 3,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 6.3,
-    "prs_opened": 3,
+    "prs_opened": 1,
     "vendors_affected": [
       "auditd",
       "bitdefender",
@@ -42,20 +30,8 @@
     ]
   },
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "Apsoft-tr",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 4,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "AsuNa-jp",
     "direct_commits": 0,
     "evidence_types_used": [
@@ -73,38 +49,14 @@
     ]
   },
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "ConnectedLucy",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "Copilot",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 1,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "CriimBow",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 0.8,
     "prs_opened": 1,
@@ -114,69 +66,45 @@
   },
   {
     "changed_telemetry_cells": 5,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "DefSecSentinel",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 3.25,
-    "prs_opened": 2,
+    "prs_opened": 1,
     "vendors_affected": [
       "elastic"
     ]
   },
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "Guzzy711",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "LuKePicci",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 16,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "MyPeaches",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 0.0,
-    "prs_opened": 2,
+    "prs_opened": 1,
     "vendors_affected": [
       "trend_micro_trendai"
     ]
   },
   {
     "changed_telemetry_cells": 1,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "NicolasSchn",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": -0.5,
     "positive_score_delta": 0.0,
     "prs_opened": 1,
@@ -202,13 +130,13 @@
   },
   {
     "changed_telemetry_cells": 81,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "Robert-HarfangLab",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 4,
+    "merged_prs": 0,
     "negative_score_delta": -0.5,
     "positive_score_delta": 32.0,
     "prs_opened": 4,
@@ -218,16 +146,16 @@
   },
   {
     "changed_telemetry_cells": 107,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "SecurityAura",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 2,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 0.0,
-    "prs_opened": 2,
+    "prs_opened": 1,
     "vendors_affected": [
       "fortiedr",
       "sentinelone",
@@ -235,50 +163,14 @@
     ]
   },
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "SolitudePy",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 0,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "Sree-Nivetha",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 0,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "Sreesanth-S",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 0,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 1,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "YousefNein",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 0.5,
     "prs_opened": 1,
@@ -288,13 +180,13 @@
   },
   {
     "changed_telemetry_cells": 3,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "alextrender",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 1.1,
     "prs_opened": 1,
@@ -305,19 +197,7 @@
   {
     "changed_telemetry_cells": 0,
     "contributor_class": "unknown",
-    "contributor_login": "alwashali",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "bizone-edr",
+    "contributor_login": "github-actions[bot]",
     "direct_commits": 0,
     "evidence_types_used": [],
     "merged_prs": 0,
@@ -327,81 +207,33 @@
     "vendors_affected": []
   },
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "blb142857",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 2,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 2,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "husnuoner",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 4,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 19,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "idev",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "inodee",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 2,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 62,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "j91321",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 6,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 4.7,
-    "prs_opened": 6,
+    "prs_opened": 5,
     "vendors_affected": [
       "eset_inspect"
     ]
   },
   {
     "changed_telemetry_cells": 34,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "jdu2600",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 5,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 5.35,
-    "prs_opened": 8,
+    "prs_opened": 5,
     "vendors_affected": [
       "carbon_black",
       "cortex_xdr",
@@ -426,41 +258,17 @@
     ]
   },
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "johnk3r",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "jonade",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 5,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 5,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 43,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "joshlemon",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 15,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 14.75,
-    "prs_opened": 25,
+    "prs_opened": 15,
     "vendors_affected": [
       "bitdefender",
       "carbon_black",
@@ -488,13 +296,13 @@
   },
   {
     "changed_telemetry_cells": 53,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "joshlemon-uptycs",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 0.0,
     "prs_opened": 1,
@@ -505,130 +313,34 @@
   {
     "changed_telemetry_cells": 0,
     "contributor_class": "unknown",
-    "contributor_login": "malwr4n6",
+    "contributor_login": "pull[bot]",
     "direct_commits": 0,
     "evidence_types_used": [],
-    "merged_prs": 0,
+    "merged_prs": 61,
     "negative_score_delta": 0.0,
     "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "maximelb",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 2,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 2,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "mrobertsonris",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "mthcht",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 2,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 2,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "nasbench",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "oliviagallucci",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "pep-un",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "shine0614",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 0,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
+    "prs_opened": 61,
     "vendors_affected": []
   },
   {
     "changed_telemetry_cells": 19,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "thiboog",
     "direct_commits": 1,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 5,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 3.0,
-    "prs_opened": 5,
+    "prs_opened": 4,
     "vendors_affected": [
       "sentinelone"
     ]
   },
   {
-    "changed_telemetry_cells": 0,
-    "contributor_class": "unknown",
-    "contributor_login": "thomaspatzke",
-    "direct_commits": 0,
-    "evidence_types_used": [],
-    "merged_prs": 1,
-    "negative_score_delta": 0.0,
-    "positive_score_delta": 0.0,
-    "prs_opened": 1,
-    "vendors_affected": []
-  },
-  {
     "changed_telemetry_cells": 3,
-    "contributor_class": "unknown",
+    "contributor_class": "maintainer",
     "contributor_login": "tsale",
     "direct_commits": 0,
     "evidence_types_used": [
@@ -637,10 +349,10 @@
       "sanitized_logs",
       "screenshots"
     ],
-    "merged_prs": 30,
+    "merged_prs": 1,
     "negative_score_delta": 0.0,
     "positive_score_delta": 2.0,
-    "prs_opened": 32,
+    "prs_opened": 1,
     "vendors_affected": [
       "c_prot"
     ]
@@ -689,13 +401,13 @@
   },
   {
     "changed_telemetry_cells": 4,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "xC0uNt3r7hr34t",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 2,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 1.0,
     "prs_opened": 2,
@@ -705,13 +417,13 @@
   },
   {
     "changed_telemetry_cells": 53,
-    "contributor_class": "unknown",
+    "contributor_class": "external_contributor",
     "contributor_login": "zbeastofburden",
     "direct_commits": 0,
     "evidence_types_used": [
       "unknown"
     ],
-    "merged_prs": 1,
+    "merged_prs": 0,
     "negative_score_delta": 0.0,
     "positive_score_delta": 0.0,
     "prs_opened": 1,
